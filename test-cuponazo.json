@@ -1,24 +1,4 @@
 [
-  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Pack-cerveza-Corona-Extra-botella-18-un-x-355-cc-1.jpg",
-   "fechaPublicacion": "2019-05-24 21:00",
-   "fechaDespublicacion": "2019-05-30 21:00",
-   "categoria": "semanales",
-   "subcategoria": "celebracion",
-   "producto": "Pack cerveza Corona Extra",
-   "descripcion": "botella 18 un x 355 cc",
-   "formatoDesde": "pack",
-   "desdePrecioUno": "1",
-   "ofertaPrecioUno": "11190",
-   "desdePrecioDos": "",
-   "ofertaPrecioDos": "",
-   "precioNosocio": "16990",
-   "porcentajeDescuento": null,
-   "formatoPrecio": "c/pack",
-   "legal": ""
- },
  {
    "timer": "si",
    "buscador": "si",
