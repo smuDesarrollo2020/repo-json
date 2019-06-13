@@ -712,7 +712,7 @@
    "formatoDesde": "un",
    "desdePrecioUno": null,
    "ofertaPrecioUno": null,
-   "desdePrecioDos": 0,
+   "desdePrecioDos": 1,
    "ofertaPrecioDos": 3596,
    "precioNosocio": 4476,
    "porcentajeDescuento": null,
