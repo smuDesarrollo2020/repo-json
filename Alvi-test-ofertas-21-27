@@ -15,7 +15,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 739,
    "precioNosocio": 869,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -35,7 +35,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 825,
    "precioNosocio": 1049,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -55,7 +55,7 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 1249,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": "20% dcto"
  },
@@ -75,7 +75,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 1790,
    "precioNosocio": 2369,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -95,7 +95,7 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 3289,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/pack",
    "legal": ""
  },
@@ -115,7 +115,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 399,
    "precioNosocio": 539,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": "25% dcto"
  },
@@ -135,7 +135,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 799,
    "precioNosocio": 1099,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "pack",
    "legal": ""
  },
@@ -155,7 +155,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 990,
    "precioNosocio": 1549,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -175,7 +175,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 2890,
    "precioNosocio": 3559,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/dis",
    "legal": ""
  },
@@ -195,7 +195,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 690,
    "precioNosocio": 890,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -215,7 +215,7 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 1330,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -235,7 +235,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 1090,
    "precioNosocio": 1299,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/dis",
    "legal": ""
  },
@@ -255,7 +255,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 1590,
    "precioNosocio": 2190,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/dis",
    "legal": ""
  },
@@ -275,7 +275,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 2190,
    "precioNosocio": 3349,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -295,7 +295,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 2690,
    "precioNosocio": 4099,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -315,7 +315,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 2990,
    "precioNosocio": 4590,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/paq",
    "legal": ""
  },
@@ -335,7 +335,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 4990,
    "precioNosocio": 8759,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -355,7 +355,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 7490,
    "precioNosocio": 14899,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -375,7 +375,7 @@
    "desdePrecioDos": 4,
    "ofertaPrecioDos": 110,
    "precioNosocio": 155,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -395,7 +395,7 @@
    "desdePrecioDos": 2,
    "ofertaPrecioDos": 1799,
    "precioNosocio": 2779,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -411,11 +411,11 @@
    "descripcion": "longaniza o chorizo display 1 kg",
    "formatoDesde": "dis",
    "desdePrecioUno": 2,
-   "ofertaPrecioUno": 199,
+   "ofertaPrecioUno": 1999,
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 3499,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/dis",
    "legal": ""
  },
@@ -435,7 +435,7 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 4590,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/bol",
    "legal": ""
  },
@@ -455,7 +455,7 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 4996,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/dis",
    "legal": ""
  },
@@ -475,7 +475,7 @@
    "desdePrecioDos": 10,
    "ofertaPrecioDos": 105,
    "precioNosocio": 179,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -495,7 +495,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 429,
    "precioNosocio": 495,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -511,11 +511,11 @@
    "descripcion": "lata 330 cc",
    "formatoDesde": "un",
    "desdePrecioUno": 6,
-   "ofertaPrecioUno": 449,
+   "ofertaPrecioUno": 299,
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 399,
    "precioNosocio": 929,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -535,7 +535,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 469,
    "precioNosocio": 990,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": "25% dcto"
  },
@@ -555,7 +555,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 750,
    "precioNosocio": 1200,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -575,7 +575,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 1590,
    "precioNosocio": 3990,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -595,7 +595,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 1590,
    "precioNosocio": 580,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -615,7 +615,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 1990,
    "precioNosocio": 2990,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -635,14 +635,14 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 2199,
    "precioNosocio": 3665,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
  {
    "timer": "si",
    "buscador": "si",
-   "img": "Pisco-Mistral-35°-1-1.jpg",
+   "img": "Pisco-Mistral-35°-1.jpg",
    "fechaPublicacion": "2019-06-19 21:00",
    "fechaDespublicacion": "2019-06-27 21:00",
    "categoria": "futboleras",
@@ -655,7 +655,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 4990,
    "precioNosocio": 7139,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -675,7 +675,7 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 16990,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": "",
    "formatoPrecio": "c/pack",
    "legal": ""
  }
