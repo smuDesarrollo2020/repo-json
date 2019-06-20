@@ -15,7 +15,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 739,
    "precioNosocio": 869,
-   "porcentajeDescuento": 10,
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
