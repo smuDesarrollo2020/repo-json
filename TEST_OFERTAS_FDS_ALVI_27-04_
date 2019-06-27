@@ -15,7 +15,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 289,
    "precioNosocio": 399,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -35,7 +35,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 689,
    "precioNosocio": 879,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -55,7 +55,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 689,
    "precioNosocio": 1020,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -75,7 +75,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 739,
    "precioNosocio": 1029,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -95,7 +95,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 999,
    "precioNosocio": 1290,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -115,7 +115,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 999,
    "precioNosocio": 1449,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -135,7 +135,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 1190,
    "precioNosocio": 1559,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/bol",
    "legal": ""
  },
@@ -155,7 +155,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 1329,
    "precioNosocio": 2045,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -175,7 +175,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 4990,
    "precioNosocio": 7890,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/dis",
    "legal": ""
  },
@@ -189,13 +189,13 @@
    "subcategoria": "mascotas",
    "producto": "Todo alimento mascotas Animal Planet",
    "descripcion": "",
-   "formatoDesde": "25% dcto",
+   "formatoDesde": "",
    "desdePrecioUno": null,
    "ofertaPrecioUno": null,
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": null,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": 25,
    "formatoPrecio": "",
    "legal": ""
  },
@@ -215,7 +215,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 690,
    "precioNosocio": 799,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -235,14 +235,14 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 690,
    "precioNosocio": 890,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
  {
    "timer": "si",
    "buscador": "si",
-   "img": "Detergente-Ariel-regular-en-polvo-400-g.jpg",
+   "img": "Desodorante-ambiental-Poett-variedades-360-ml.jpg",
    "fechaPublicacion": "2019-06-26 10:00",
    "fechaDespublicacion": "2019-07-04 21:00",
    "categoria": "semanales",
@@ -255,7 +255,7 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 1699,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -275,7 +275,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 1090,
    "precioNosocio": 1299,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/dis",
    "legal": ""
  },
@@ -295,7 +295,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 1590,
    "precioNosocio": 2190,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/dis",
    "legal": ""
  },
@@ -315,7 +315,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 2190,
    "precioNosocio": 3349,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -335,7 +335,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 2690,
    "precioNosocio": 3890,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -355,7 +355,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 2990,
    "precioNosocio": 4590,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/dis",
    "legal": ""
  },
@@ -375,14 +375,14 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 4419,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
  {
    "timer": "si",
    "buscador": "si",
-   "img": "Detegente-Fuzol-Hipoalergenico-liquido-3-lt.jpg",
+   "img": "Detegente-Fuzol-Hipoalergenico-liquido-3-lt-1.jpg",
    "fechaPublicacion": "2019-06-26 10:00",
    "fechaDespublicacion": "2019-07-04 21:00",
    "categoria": "semanales",
@@ -395,7 +395,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 4990,
    "precioNosocio": 8759,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -415,14 +415,14 @@
    "desdePrecioDos": 2,
    "ofertaPrecioDos": 169,
    "precioNosocio": 235,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
  {
    "timer": "si",
    "buscador": "si",
-   "img": "Leche-Milo-Nestle-tetra-200cc_.jpg",
+   "img": "Leche-Milo-Nestle-tetra -200cc_.jpg",
    "fechaPublicacion": "2019-06-26 10:00",
    "fechaDespublicacion": "2019-07-04 21:00",
    "categoria": "semanales",
@@ -435,7 +435,7 @@
    "desdePrecioDos": 6,
    "ofertaPrecioDos": 279,
    "precioNosocio": 359,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -455,7 +455,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 349,
    "precioNosocio": 599,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -475,7 +475,7 @@
    "desdePrecioDos": 2,
    "ofertaPrecioDos": 389,
    "precioNosocio": 485,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -495,7 +495,7 @@
    "desdePrecioDos": 5,
    "ofertaPrecioDos": 799,
    "precioNosocio": 859,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -515,7 +515,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 849,
    "precioNosocio": 1049,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -535,7 +535,7 @@
    "desdePrecioDos": 2,
    "ofertaPrecioDos": 1099,
    "precioNosocio": 1299,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -555,7 +555,7 @@
    "desdePrecioDos": 2,
    "ofertaPrecioDos": 1799,
    "precioNosocio": 2779,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -575,7 +575,7 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 3499,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/dis",
    "legal": ""
  },
@@ -595,28 +595,8 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 4990,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/dis",
-   "legal": ""
- },
- {
-   "timer": "si",
-   "buscador": "si",
-   "img": "",
-   "fechaPublicacion": "2019-06-26 10:00",
-   "fechaDespublicacion": "2019-07-04 21:00",
-   "categoria": "semanales",
-   "subcategoria": "once-comida",
-   "producto": "Queso La Vaquita",
-   "descripcion": "barra kg",
-   "formatoDesde": "pieza",
-   "desdePrecioUno": 0,
-   "ofertaPrecioUno": 3796,
-   "desdePrecioDos": null,
-   "ofertaPrecioDos": null,
-   "precioNosocio": 4276,
-   "porcentajeDescuento": "",
-   "formatoPrecio": "kg",
    "legal": ""
  },
  {
@@ -635,7 +615,7 @@
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 6219,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "kg",
    "legal": ""
  },
@@ -655,7 +635,7 @@
    "desdePrecioDos": 10,
    "ofertaPrecioDos": 115,
    "precioNosocio": 179,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -675,7 +655,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 399,
    "precioNosocio": 929,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -695,7 +675,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 499,
    "precioNosocio": 990,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -715,7 +695,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 1250,
    "precioNosocio": 1499,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -735,7 +715,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 2190,
    "precioNosocio": 2990,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -755,7 +735,7 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 5290,
    "precioNosocio": 7139,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
  }
