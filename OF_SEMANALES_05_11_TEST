@@ -156,7 +156,7 @@
    "ofertaPrecioDos": 1690,
    "precioNosocio": 2319,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u",
+   "formatoPrecio": "c/pack",
    "legal": ""
  },
  {
@@ -615,26 +615,6 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 4290,
    "precioNosocio": 5990,
-   "porcentajeDescuento": "",
-   "formatoPrecio": "c/u",
-   "legal": ""
- },
- {
-   "timer": "si",
-   "buscador": "si",
-   "img": "",
-   "fechaPublicacion": "2019-07-03 21:00",
-   "fechaDespublicacion": "2019-07-11 21:00",
-   "categoria": "semanales",
-   "subcategoria": "celebracion",
-   "producto": "Pisco 35° 1733",
-   "descripcion": "botella 750 cc",
-   "formatoDesde": "un",
-   "desdePrecioUno": 1,
-   "ofertaPrecioUno": 3990,
-   "desdePrecioDos": 3,
-   "ofertaPrecioDos": 4290,
-   "precioNosocio": 4990,
    "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
