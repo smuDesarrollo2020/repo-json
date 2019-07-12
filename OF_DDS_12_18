@@ -1430,7 +1430,7 @@
    "producto": "Queso Gauda Soprole ",
    "descripcion": "barra 3,4 kg",
    "formatoDesde": "pieza",
-   "desdePrecioUno": 0,
+   "desdePrecioUno": 1,
    "ofertaPrecioUno": 3796,
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
