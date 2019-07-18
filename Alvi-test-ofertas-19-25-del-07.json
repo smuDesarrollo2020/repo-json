@@ -329,14 +329,14 @@
    "subcategoria": "limpieza",
    "producto": "Queso gauda Calo",
    "descripcion": "laminado 1 kg",
-   "formatoDesde": "dis",
+   "formatoDesde": "kg",
    "desdePrecioUno": 1,
    "ofertaPrecioUno": 4999,
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 6299,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/dis",
+   "formatoPrecio": "kg",
    "legal": ""
  },
  {
