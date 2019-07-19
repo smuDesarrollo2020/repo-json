@@ -1189,7 +1189,7 @@
    "subcategoria": "limpieza",
    "producto": "Queso gauda Calo",
    "descripcion": "laminado 1 kg",
-   "formatoDesde": "kg",
+   "formatoDesde": "pieza",
    "desdePrecioUno": 1,
    "ofertaPrecioUno": 4999,
    "desdePrecioDos": null,
