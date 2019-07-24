@@ -2,7 +2,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "ACEITE-VEGETAL-MERKAT.jpg",
+   "img": "ACEITE-VEGETAL-MERKAT-900.jpg",
    "fechaPublicacion": "25-07-19 21:00",
    "fechaDespublicacion": "01-08-19 21:00",
    "categoria": "semanales",
@@ -54,7 +54,7 @@
    "ofertaPrecioUno": 949,
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 1.09,
-   "precioNosocio": 1.29,
+   "precioNosocio": 1290,
    "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
@@ -73,8 +73,8 @@
    "desdePrecioUno": 3,
    "ofertaPrecioUno": 1.399,
    "desdePrecioDos": 2,
-   "ofertaPrecioDos": 1.449,
-   "precioNosocio": 1.749,
+   "ofertaPrecioDos": 1449,
+   "precioNosocio": 1749,
    "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
@@ -113,8 +113,8 @@
    "desdePrecioUno": 3,
    "ofertaPrecioUno": 1.19,
    "desdePrecioDos": 1,
-   "ofertaPrecioDos": 1.29,
-   "precioNosocio": 1.699,
+   "ofertaPrecioDos": 1290,
+   "precioNosocio": 1699,
    "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
@@ -174,7 +174,7 @@
    "ofertaPrecioUno": 879,
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 899,
-   "precioNosocio": 1.29,
+   "precioNosocio": 1290,
    "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
@@ -214,7 +214,7 @@
    "ofertaPrecioUno": 790,
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 890,
-   "precioNosocio": 1.059,
+   "precioNosocio": 1059,
    "porcentajeDescuento": null,
    "formatoPrecio": "c/dis",
    "legal": ""
@@ -233,8 +233,8 @@
    "desdePrecioUno": 0,
    "ofertaPrecioUno": 0,
    "desdePrecioDos": 1,
-   "ofertaPrecioDos": 4.999,
-   "precioNosocio": 6.299,
+   "ofertaPrecioDos": 4999,
+   "precioNosocio": 6299,
    "porcentajeDescuento": null,
    "formatoPrecio": "c/dis",
    "legal": ""
@@ -274,7 +274,7 @@
    "ofertaPrecioUno": 829,
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 929,
-   "precioNosocio": 1.15,
+   "precioNosocio": 1150,
    "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
