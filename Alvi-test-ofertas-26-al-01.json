@@ -15,7 +15,7 @@
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 749,
    "precioNosocio": 869,
-   "porcentajeDescuento": null,
+   "porcentajeDescuento": null,n
    "formatoPrecio": "c/u",
    "legal": ""
  },
@@ -53,7 +53,7 @@
    "desdePrecioUno": 3,
    "ofertaPrecioUno": 949,
    "desdePrecioDos": 1,
-   "ofertaPrecioDos": 1.09,
+   "ofertaPrecioDos": 1090,
    "precioNosocio": 1290,
    "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
@@ -111,7 +111,7 @@
    "descripcion": "variedades ret 2.5 lt",
    "formatoDesde": "un",
    "desdePrecioUno": 3,
-   "ofertaPrecioUno": 1.19,
+   "ofertaPrecioUno": 1190,
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 1290,
    "precioNosocio": 1699,
