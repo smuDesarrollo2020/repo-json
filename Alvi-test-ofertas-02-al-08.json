@@ -16,7 +16,8 @@
    "ofertaPrecioDos": 99,
    "precioNosocio": 145,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -35,7 +36,8 @@
    "ofertaPrecioDos": 119,
    "precioNosocio": 159,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -54,7 +56,8 @@
    "ofertaPrecioDos": 439,
    "precioNosocio": 665,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -73,7 +76,8 @@
    "ofertaPrecioDos": null,
    "precioNosocio": 1215,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -92,7 +96,8 @@
    "ofertaPrecioDos": 949,
    "precioNosocio": 1699,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/dis"
+   "formatoPrecio": "c/dis",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -111,7 +116,8 @@
    "ofertaPrecioDos": null,
    "precioNosocio": 1699,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -130,7 +136,8 @@
    "ofertaPrecioDos": 999,
    "precioNosocio": 1290,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -149,7 +156,8 @@
    "ofertaPrecioDos": 1090,
    "precioNosocio": 1550,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/dis"
+   "formatoPrecio": "c/dis",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -168,7 +176,8 @@
    "ofertaPrecioDos": 1109,
    "precioNosocio": 1549,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -187,7 +196,8 @@
    "ofertaPrecioDos": 1490,
    "precioNosocio": 1990,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -206,7 +216,8 @@
    "ofertaPrecioDos": 1690,
    "precioNosocio": 3190,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -225,7 +236,8 @@
    "ofertaPrecioDos": 1790,
    "precioNosocio": 2590,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/dis"
+   "formatoPrecio": "c/dis",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -244,7 +256,8 @@
    "ofertaPrecioDos": 1929,
    "precioNosocio": 2890,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -263,7 +276,8 @@
    "ofertaPrecioDos": 1990,
    "precioNosocio": 3190,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -282,7 +296,8 @@
    "ofertaPrecioDos": null,
    "precioNosocio": 2959,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/pack"
+   "formatoPrecio": "c/pack",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -301,7 +316,8 @@
    "ofertaPrecioDos": 2090,
    "precioNosocio": 2739,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/dis"
+   "formatoPrecio": "c/dis",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -320,7 +336,8 @@
    "ofertaPrecioDos": null,
    "precioNosocio": 3245,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/pack"
+   "formatoPrecio": "c/pack",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -339,7 +356,8 @@
    "ofertaPrecioDos": 2690,
    "precioNosocio": 4229,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -358,7 +376,8 @@
    "ofertaPrecioDos": 4990,
    "precioNosocio": 8759,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -377,7 +396,8 @@
    "ofertaPrecioDos": 5990,
    "precioNosocio": 9490,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -396,7 +416,8 @@
    "ofertaPrecioDos": 110,
    "precioNosocio": 155,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -415,7 +436,8 @@
    "ofertaPrecioDos": 279,
    "precioNosocio": 379,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -434,7 +456,8 @@
    "ofertaPrecioDos": 339,
    "precioNosocio": 599,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/bol"
+   "formatoPrecio": "c/bol",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -453,7 +476,8 @@
    "ofertaPrecioDos": 419,
    "precioNosocio": 489,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -472,7 +496,8 @@
    "ofertaPrecioDos": 749,
    "precioNosocio": 929,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -491,7 +516,8 @@
    "ofertaPrecioDos": 1999,
    "precioNosocio": 2699,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/bol"
+   "formatoPrecio": "c/bol",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -510,7 +536,8 @@
    "ofertaPrecioDos": null,
    "precioNosocio": 4590,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/bol"
+   "formatoPrecio": "c/bol",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -529,7 +556,8 @@
    "ofertaPrecioDos": 299,
    "precioNosocio": 929,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -548,7 +576,8 @@
    "ofertaPrecioDos": 449,
    "precioNosocio": 790,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/pack"
+   "formatoPrecio": "c/pack",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -567,7 +596,8 @@
    "ofertaPrecioDos": 929,
    "precioNosocio": 1150,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -586,7 +616,8 @@
    "ofertaPrecioDos": 1290,
    "precioNosocio": 1699,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -605,7 +636,8 @@
    "ofertaPrecioDos": 5890,
    "precioNosocio": 7999,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/pack"
+   "formatoPrecio": "c/pack",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -624,7 +656,8 @@
    "ofertaPrecioDos": 8689,
    "precioNosocio": 10950,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/pack"
+   "formatoPrecio": "c/pack",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -643,7 +676,8 @@
    "ofertaPrecioDos": null,
    "precioNosocio": 12990,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/pack"
+   "formatoPrecio": "c/pack",
+   "legal": ""
  },
  {
    "timer": "si",
@@ -662,6 +696,7 @@
    "ofertaPrecioDos": 5990,
    "precioNosocio": 9490,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/u"
+   "formatoPrecio": "c/u",
+   "legal": ""
  }
 ]
