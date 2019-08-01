@@ -342,7 +342,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "Detegente-Fuzol-Hipoalergenico-liquido-3-lt.jpg",
+   "img": "Detegente-Fuzol-Hipoalergenico-liquido-3-lt2.jpg",
    "fechaPublicacion": "2019-08-01 22:00",
    "fechaDespublicacion": "2019-08-08 22:00",
    "categoria": "dias-del-socio",
@@ -355,26 +355,6 @@
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 4990,
    "precioNosocio": 8759,
-   "porcentajeDescuento": "",
-   "formatoPrecio": "c/u",
-   "legal": ""
- },
- {
-   "timer": "si",
-   "buscador": "si",
-   "img": "detergente-liquido-rinso-150x150.jpg",
-   "fechaPublicacion": "2019-08-01 22:00",
-   "fechaDespublicacion": "2019-08-08 22:00",
-   "categoria": "dias-del-socio",
-   "subcategoria": "once-comida",
-   "producto": "Detergente líquido Rinso",
-   "descripcion": "variedades 3 lt",
-   "formatoDesde": "un",
-   "desdePrecioUno": 2,
-   "ofertaPrecioUno": 4990,
-   "desdePrecioDos": 1,
-   "ofertaPrecioDos": 5990,
-   "precioNosocio": 9490,
    "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
@@ -502,7 +482,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "Papas-prefritas-Minuto-Verde.jpg",
+   "img": "Papas-prefritas-Minuto-Verde-2.jpg",
    "fechaPublicacion": "2019-08-01 22:00",
    "fechaDespublicacion": "2019-08-08 22:00",
    "categoria": "dias-del-socio",
@@ -522,7 +502,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "Cerveza-Carlsberg-lata-330-cc-150x150.jpg",
+   "img": "Cerveza-Carlsberg-lata-330-cc.jpg",
    "fechaPublicacion": "2019-08-01 22:00",
    "fechaDespublicacion": "2019-08-08 22:00",
    "categoria": "dias-del-socio",
