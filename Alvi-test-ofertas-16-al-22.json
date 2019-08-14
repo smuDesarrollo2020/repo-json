@@ -1,8 +1,5 @@
 [
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "GALLETA-MINI-ARCOR-VARIEDADES-35GR.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -20,9 +17,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "galleta-mini-costa.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -40,9 +34,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "salsas-de-tomate-pomarola.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -60,15 +51,12 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "te-ceylan.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
    "subcategoria": "almuerzo",
-   "producto": "Té Club ",
-   "descripcion": "Ceylan Emblem 20 bols",
+   "producto": "Té Emblem Ceylan",
+   "descripcion": "20 bols.",
    "formatoDesde": "un",
    "desdePrecioUno": 5,
    "ofertaPrecioUno": 539,
@@ -80,9 +68,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Papas-Fritas-Stax-Lays-variedades-140-g.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -100,9 +85,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Arroz-Miraflores-G1-grano-largo-1-kg_05_11_JUL.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -120,9 +102,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Té-Ceylan-Emblem-100-un.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -140,9 +119,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Cafe-instantaneo-gold.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -160,29 +136,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "",
-   "fechaPublicacion": "2019-08-15 22:00",
-   "fechaDespublicacion": "2019-08-22 22:00",
-   "categoria": "dias-del-socio",
-   "subcategoria": "almuerzo",
-   "producto": "Café molido Monterrey",
-   "descripcion": "250 g",
-   "formatoDesde": "un",
-   "desdePrecioUno": 2,
-   "ofertaPrecioUno": 1809,
-   "desdePrecioDos": 1,
-   "ofertaPrecioDos": 1929,
-   "precioNosocio": 2890,
-   "porcentajeDescuento": null,
-   "formatoPrecio": "c/u",
-   "legal": ""
- },
- {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Cafe-instantaneo-monterrey.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -200,9 +153,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Pack-Lucchetti-Pasta-400-gr-Salsa-italiana-200-gr.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -220,9 +170,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Te-Lipton-Yellow-Label-100-bols.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -240,15 +187,12 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "SUPER-OCHO-OBLEA-BAnADA.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
    "subcategoria": "almuerzo",
    "producto": "Oblea Súper 8 Nestlé",
-   "descripcion": "display 20 un x 29 g",
+   "descripcion": "display 24 un x 29 g",
    "formatoDesde": "dis",
    "desdePrecioUno": 2,
    "ofertaPrecioUno": 2790,
@@ -260,29 +204,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "",
-   "fechaPublicacion": "2019-08-15 22:00",
-   "fechaDespublicacion": "2019-08-22 22:00",
-   "categoria": "dias-del-socio",
-   "subcategoria": "almuerzo",
-   "producto": "Pack Hellmann´s",
-   "descripcion": "Mayonesa Deli 970 g + Salsa variedades ",
-   "formatoDesde": "pack",
-   "desdePrecioUno": 1,
-   "ofertaPrecioUno": 3439,
-   "desdePrecioDos": null,
-   "ofertaPrecioDos": 3549,
-   "precioNosocio": 4999,
-   "porcentajeDescuento": null,
-   "formatoPrecio": "c/pack",
-   "legal": ""
- },
- {
-   "timer": "si",
-   "buscador": "si",
-   "img": "cafe-monterrey.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -300,9 +221,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "kotex.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -320,9 +238,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Pack-servilleta-Elite.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -340,9 +255,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Cloro-Gel-Igenix-900-ml-variedades.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -360,9 +272,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "antigrasa-musculo.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -380,9 +289,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Papel-Higiénico-Acolchado-DH-Favorita-4x28mt.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -400,9 +306,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "toalla-papel-favorita-multicorte.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -420,9 +323,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "lavalozas-Quix.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -440,9 +340,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Panal-Pampers-Premium-Care.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -460,9 +357,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Detegente-Fuzol-Hipoalergenico-liquido-3-lt.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -480,9 +374,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "omo-matic-3kg.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -500,15 +391,12 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "tork-250mt.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
    "subcategoria": "almuerzo",
    "producto": "Toalla jumbo Tork",
-   "descripcion": "universal 250 mt",
+   "descripcion": "universal 2 un x 250 mt.",
    "formatoDesde": "un",
    "desdePrecioUno": 1,
    "ofertaPrecioUno": 7990,
@@ -520,9 +408,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Yoghurt-batido-Los-Alerces.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -540,9 +425,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Leche-Soprole-frutilla-o-chocolate-200cc.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -560,9 +442,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Congelados-Minuto-Verde-bolsa-200g.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -580,9 +459,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Salchicha-Winter-Tradicional-o-Pollo-display-225-gr.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -600,9 +476,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "mantequilla-calo-125g.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -620,9 +493,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Manjar-Colun-bolsa-1-kg.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -640,9 +510,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Papas-Prefritas-Minuto-Verde-2.5-kg.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -660,9 +527,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "queso-La-Vaquita.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -680,29 +544,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Queso-mantecoso-Quilque.jpg",
-   "fechaPublicacion": "2019-08-15 22:00",
-   "fechaDespublicacion": "2019-08-22 22:00",
-   "categoria": "dias-del-socio",
-   "subcategoria": "almuerzo",
-   "producto": "Queso mantecoso Quilque",
-   "descripcion": "laminado ",
-   "formatoDesde": "dis",
-   "desdePrecioUno": 1,
-   "ofertaPrecioUno": 4499,
-   "desdePrecioDos": null,
-   "ofertaPrecioDos": null,
-   "precioNosocio": 5399,
-   "porcentajeDescuento": null,
-   "formatoPrecio": "kg",
-   "legal": ""
- },
- {
-   "timer": "si",
-   "buscador": "si",
-   "img": "queso-colun-ranco.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -720,9 +561,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Jugo-en-Polvo-Zuko-variedades-35-g.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -740,9 +578,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Jugo-en-polvo-Livean.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -760,9 +595,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Cerveza-Golden-Deer-lata-500-cc.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -780,9 +612,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "nectar-sprim1.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -800,9 +629,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Nectar-Andina-variedades-15-lt.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -820,9 +646,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "cocacola-fanta-sprite.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -840,9 +663,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Cerveza-Escudo-o-Cristal-PACK-12-LATAS-x-470-cc.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -860,9 +680,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "CERV-CRISTAL.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -880,9 +697,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Pack-pisco-35-Mistral.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -900,9 +714,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Azucar-Granulada-Iansa-1-KG.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -920,9 +731,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "harina_selecta.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -940,9 +748,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Alimento-para-mascotas-Animal-Planet.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
@@ -960,9 +765,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
-   "img": "Agua-Mineral-Vital-cs-gas-1.6-lt.jpg",
    "fechaPublicacion": "2019-08-15 22:00",
    "fechaDespublicacion": "2019-08-22 22:00",
    "categoria": "dias-del-socio",
