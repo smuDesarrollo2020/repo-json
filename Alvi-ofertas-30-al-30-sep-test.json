@@ -660,26 +660,6 @@
    "legal": ""
  },
  {
-   "timer": "",
-   "buscador": "",
-   "img": "",
-   "fechaPublicacion": "",
-   "fechaDespublicacion": "",
-   "categoria": "",
-   "subcategoria": "",
-   "producto": "",
-   "descripcion": "",
-   "formatoDesde": "",
-   "desdePrecioUno": null,
-   "ofertaPrecioUno": null,
-   "desdePrecioDos": null,
-   "ofertaPrecioDos": null,
-   "precioNosocio": null,
-   "porcentajeDescuento": "",
-   "formatoPrecio": "",
-   "legal": ""
- },
- {
    "timer": "si",
    "buscador": "si",
    "img": "Agua-mineral-Vital-con-o-sin-gas-botella-desechable-600-cc.jpg",
@@ -1042,7 +1022,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "",
+   "img": "Pisco-Sour-Inca-de-Oro.jpg",
    "fechaPublicacion": "2019-08-29 22:00",
    "fechaDespublicacion": "2019-08-29 22:00",
    "categoria": "especial-botilleros",
@@ -1062,7 +1042,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "",
+   "img": "whisky-jim-beam.jpg",
    "fechaPublicacion": "2019-08-29 22:00",
    "fechaDespublicacion": "2019-08-29 22:00",
    "categoria": "especial-botilleros",
@@ -1082,7 +1062,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "",
+   "img": "espumante-amaranta.jpg",
    "fechaPublicacion": "2019-08-29 22:00",
    "fechaDespublicacion": "2019-08-29 22:00",
    "categoria": "especial-botilleros",
@@ -1102,7 +1082,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "",
+   "img": "vino-pipeno-casa-grande.jpg",
    "fechaPublicacion": "2019-08-29 22:00",
    "fechaDespublicacion": "2019-08-29 22:00",
    "categoria": "especial-botilleros",
@@ -1142,7 +1122,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "",
+   "img": "Vino-Gato-tetra-1lt.jpg",
    "fechaPublicacion": "2019-08-29 22:00",
    "fechaDespublicacion": "2019-08-29 22:00",
    "categoria": "especial-botilleros",
@@ -1162,7 +1142,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "",
+   "img": "Vino-Santa-Helena-tetra-2lt.jpg",
    "fechaPublicacion": "2019-08-29 22:00",
    "fechaDespublicacion": "2019-08-29 22:00",
    "categoria": "especial-botilleros",
