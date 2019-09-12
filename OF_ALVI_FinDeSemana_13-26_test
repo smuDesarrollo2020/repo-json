@@ -231,11 +231,11 @@
    "descripcion": "",
    "formatoDesde": "",
    "desdePrecioUno": "",
-   "ofertaPrecioUno": "30",
+   "ofertaPrecioUno": "",
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": null,
-   "porcentajeDescuento": "",
+   "porcentajeDescuento": "30",
    "formatoPrecio": "",
    "legal": ""
  },
