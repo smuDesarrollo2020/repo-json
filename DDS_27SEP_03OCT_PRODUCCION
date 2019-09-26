@@ -38,7 +38,7 @@
    "porcentajeDescuento": null,
    "formatoPrecio": "c/u",
    "legal": ""
- },
+ }, 
  {
    "timer": "si",
    "buscador": "si",
