@@ -2,7 +2,7 @@
  {
    "timer": "si",
    "buscador": "si",
-   "img": "",
+   "img": "Cereal-Kids-Arcor-variedades-25-g.jpg",
    "fechaPublicacion": "2019-10-15 22:00",
    "fechaDespublicacion": "2019-10-24 22:00",
    "categoria": "semanales",
@@ -417,26 +417,6 @@
    "precioNosocio": 599,
    "porcentajeDescuento": "",
    "formatoPrecio": "c/bol",
-   "legal": ""
- },
- {
-   "timer": "si",
-   "buscador": "si",
-   "img": "",
-   "fechaPublicacion": "2019-10-15 22:00",
-   "fechaDespublicacion": "2019-10-24 22:00",
-   "categoria": "semanales",
-   "subcategoria": "despensa",
-   "producto": "Crema lista Calo",
-   "descripcion": "200 ml",
-   "formatoDesde": "un",
-   "desdePrecioUno": 6,
-   "ofertaPrecioUno": 399,
-   "desdePrecioDos": 3,
-   "ofertaPrecioDos": 479,
-   "precioNosocio": 659,
-   "porcentajeDescuento": "",
-   "formatoPrecio": "c/u",
    "legal": ""
  },
  {
