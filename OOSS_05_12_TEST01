@@ -796,7 +796,7 @@
    "ofertaPrecioDos": 4590,
    "precioNosocio": 4990,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/pack",
+   "formatoPrecio": "c/pk",
    "legal": ""
  },
  {
@@ -836,7 +836,7 @@
    "ofertaPrecioDos": 5890,
    "precioNosocio": 7999,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/pack",
+   "formatoPrecio": "c/pk",
    "legal": ""
  },
  {
@@ -876,7 +876,7 @@
    "ofertaPrecioDos": 8790,
    "precioNosocio": 10950,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/pack",
+   "formatoPrecio": "c/pk",
    "legal": ""
  }
 ]
