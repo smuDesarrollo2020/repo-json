@@ -449,14 +449,14 @@
    "subcategoria": "despensa",
    "producto": "Queso mantecoso Quilque",
    "descripcion": "laminado 3.4 kg.",
-   "formatoDesde": "dis",
+   "formatoDesde": "kg",
    "desdePrecioUno": 1,
    "ofertaPrecioUno": 4396,
    "desdePrecioDos": null,
    "ofertaPrecioDos": null,
    "precioNosocio": 5196,
    "porcentajeDescuento": "",
-   "formatoPrecio": "c/dis",
+   "formatoPrecio": "c/kg",
    "legal": ""
  },
  {
